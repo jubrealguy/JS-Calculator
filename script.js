@@ -1,5 +1,5 @@
 var first = parseInt(prompt("Enter first number"))
-var operator = prompt("Enter operator")
+var operator = prompt("Enter operator from (-, +. *, /, %)")
 var second = parseInt(prompt("Enter second number"))
 
 function maths() {
